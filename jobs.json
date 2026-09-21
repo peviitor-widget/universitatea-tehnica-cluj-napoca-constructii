@@ -1,71 +1,105 @@
 [
   {
-    "url": "https://www.teamland.ro/apply.php?id=1068#content",
-    "title": "Inginer calitate constructii",
-    "company": "TEAMLAND SRL",
+    "url": "https://jobs.smartrecruiters.com/SGS/744000135029154",
+    "title": "Inginer Constructor",
+    "company": "SGS - TIM SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-20T13:01:36.847Z",
+    "status": "scraped",
+    "tags": [
+      "Management constructii",
+      "Tehnologia santierelor"
+    ],
+    "matchPercentage": 85,
+    "reason": "Estimări costuri/cantități și coordonare proiect, aliniate pregătirii de inginer constructor"
+  },
+  {
+    "url": "https://conlangrup.ro/job/angajam-inginer-instalatii-electrice-sanitare-mecanice/",
+    "title": "ANGAJĂM INGINER INSTALAȚII ELECTRICE, SANITARE, MECANICE",
+    "company": "CONLAN SRL",
     "location": [
       "Sibiu, Romania"
     ],
     "salary": null,
-    "date": "2026-09-17T13:12:19.905Z",
-    "status": "scraped",
-    "tags": [
-      "Incercarea constructiilor",
-      "Management in constructii"
-    ],
-    "matchPercentage": 70,
-    "reason": "Controlul calității în construcții folosește încercarea construcțiilor și managementul șantierului."
-  },
-  {
-    "url": "https://www.teamland.ro/apply.php?id=761#content",
-    "title": "Internship Inginer Calitate",
-    "company": "TEAMLAND SRL",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-17T13:11:55.820Z",
-    "status": "scraped",
-    "tags": [
-      "Incercarea constructiilor",
-      "Management in constructii"
-    ],
-    "matchPercentage": 55,
-    "reason": "Internship în calitate; utile competențele de încercare a construcțiilor și management."
-  },
-  {
-    "url": "https://www.teamland.ro/apply.php?id=1096#content",
-    "title": "Inginer instalatii - Mentenanta",
-    "company": "TEAMLAND SRL",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-17T13:10:58.035Z",
+    "date": "2026-09-20T13:01:13.204Z",
     "status": "scraped",
     "tags": [
       "Alimentari cu apa si canalizari",
-      "Termotehnica constructiilor"
+      "Tehnologia santierelor"
     ],
-    "matchPercentage": 45,
-    "reason": "Legătură parțială prin alimentări cu apă și canalizări și termotehnica construcțiilor."
+    "matchPercentage": 50,
+    "reason": "Instalații sanitare se apropie de alimentări cu apă și canalizări"
   },
   {
-    "url": "https://www.teamland.ro/apply.php?id=1249#content",
-    "title": "Inginer calitate",
+    "url": "https://www.teamland.ro/apply.php?id=1391#content",
+    "title": "Inginer utilitati",
     "company": "TEAMLAND SRL",
     "location": [
       "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-09-17T13:10:37.212Z",
+    "date": "2026-09-20T13:00:46.988Z",
     "status": "scraped",
     "tags": [
-      "Incercarea constructiilor",
-      "Management in constructii"
+      "Alimentari cu apa si canalizari",
+      "Rețele apa"
     ],
-    "matchPercentage": 60,
-    "reason": "Controlul calității; competențe de încercare a construcțiilor și management."
+    "matchPercentage": 40,
+    "reason": "Utilități pot viza rețele de apă/canal, relevanță medie"
+  },
+  {
+    "url": "https://recrutaresiselectie.ro/job/bim-manager-structuri/",
+    "title": "BIM Manager – structuri",
+    "company": "HUMAN CAPITAL SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-20T13:00:02.527Z",
+    "status": "scraped",
+    "tags": [
+      "Proiectare asistata de calculator",
+      "Structuri beton armat"
+    ],
+    "matchPercentage": 80,
+    "reason": "BIM pe structuri, strâns legat de proiectarea asistată de calculator și design structural"
+  },
+  {
+    "url": "https://www.prohuman.ro/candidati/jobs/Proiectantstructuriderezistenta",
+    "title": "Proiectant structuri de rezistență",
+    "company": "PROHUMAN APT S.R.L.",
+    "location": [
+      "Iași, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-20T12:57:22.512Z",
+    "status": "scraped",
+    "tags": [
+      "Structuri beton armat",
+      "Rezistenta materialelor"
+    ],
+    "matchPercentage": 95,
+    "reason": "Corelat direct cu calculul și proiectarea structurilor și rezistența materialelor"
+  },
+  {
+    "url": "https://cona.ro/cariere/#heading_998299",
+    "title": "Inginer junior structuri metalice",
+    "company": "CONA SRL",
+    "location": [
+      "Huedin,Ploiesti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-20T12:57:16.970Z",
+    "status": "scraped",
+    "tags": [
+      "Constructii metalice",
+      "Calcul structuri"
+    ],
+    "matchPercentage": 90,
+    "reason": "Structuri metalice, exact în aria de competență; poziție junior"
   },
   {
     "url": "https://www.prohuman.ro/candidati/jobs/Inginer-Controlul-Calitătii-Prefabricate-Beton",
@@ -81,144 +115,59 @@
       "Incercarea constructiilor",
       "Structuri beton armat"
     ],
-    "matchPercentage": 75,
-    "reason": "Controlul calității prefabricatelor din beton armat, direct legat de structuri din beton și încercări."
+    "matchPercentage": 70,
+    "reason": "Control calitate beton prefabricat, se leagă de încercarea construcțiilor"
   },
   {
-    "url": "https://www.prohuman.ro/candidati/jobs/Proiectantstructuriderezistenta",
-    "title": "Proiectant structuri de rezistență",
-    "company": "PROHUMAN APT S.R.L.",
-    "location": [
-      "Iași, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-17T13:04:19.060Z",
-    "status": "scraped",
-    "tags": [
-      "Structuri beton armat",
-      "Metoda elementului finit"
-    ],
-    "matchPercentage": 95,
-    "reason": "Potrivire aproape perfectă: proiectare structuri din beton armat, rezistența materialelor, FEM."
-  },
-  {
-    "url": "https://recrutaresiselectie.ro/job/bim-manager-structuri/",
-    "title": "BIM Manager – structuri",
-    "company": "HUMAN CAPITAL SRL",
+    "url": "https://leviatan.ro/inginer-proiectant-instalatii-hvac/",
+    "title": "Inginer Proiectant Instalații HVAC",
+    "company": "LEVIATAN MANAGEMENT SRL",
     "location": [
       "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-09-16T13:27:25.480Z",
+    "date": "2026-09-20T12:57:14.252Z",
+    "status": "scraped",
+    "tags": [
+      "Termotehnica constructiilor",
+      "Proiectare asistata de calculator"
+    ],
+    "matchPercentage": 50,
+    "reason": "Proiectare instalatii cu REVIT/BIM, se apropie de termotehnica constructiilor si proiectare asistata."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/269443/Working4U/Inginer-Proiectant-Drumuri-",
+    "title": "Inginer Proiectant Drumuri",
+    "company": "WORKING UP LC SOLUTIONS SRL",
+    "location": [
+      "Timișoara, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-20T12:57:11.863Z",
+    "status": "scraped",
+    "tags": [
+      "Cai de comunicatii si lucrari de arta",
+      "Topografie si geodezie"
+    ],
+    "matchPercentage": 92,
+    "reason": "Potrivire aproape perfecta cu specializarea drumuri si poduri: proiectare drumuri, topografie, lucrari de arta."
+  },
+  {
+    "url": "https://www.wtb.ro/job-inginer-proiectant/",
+    "title": "INGINER PROIECTANT",
+    "company": "WTB AUTO RENTALS SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-20T12:55:47.213Z",
     "status": "scraped",
     "tags": [
       "Proiectare asistata de calculator",
-      "Structuri beton armat"
+      "Rezistenta materialelor si statica constructiilor"
     ],
-    "matchPercentage": 80,
-    "reason": "BIM pe structuri; folosește proiectare asistată de calculator și cunoștințe structurale."
-  },
-  {
-    "url": "https://cona.ro/cariere/#heading_998299",
-    "title": "Inginer junior structuri metalice",
-    "company": "CONA SRL",
-    "location": [
-      "Huedin,Ploiesti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-12T12:03:34.270Z",
-    "status": "scraped",
-    "tags": [
-      "Constructii metalice",
-      "Rezistenta materialelor"
-    ],
-    "matchPercentage": 90,
-    "reason": "Structuri metalice: construcții metalice și rezistența materialelor se potrivesc perfect."
-  },
-  {
-    "url": "https://www.prohuman.ro/candidati/jobs/Proiectantsistem",
-    "title": "Proiectant sistem calitate și organizare",
-    "company": "PROHUMAN APT S.R.L.",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-17T13:08:55.975Z",
-    "status": "scraped",
-    "tags": [
-      "Management in constructii",
-      "Incercarea constructiilor"
-    ],
-    "matchPercentage": 55,
-    "reason": "Sisteme de calitate și organizare; competențe de management în construcții și încercarea construcțiilor."
-  },
-  {
-    "url": "https://erpahr.ro/jobs?ref=463&amp;title=inginer-proiectant-junior",
-    "title": "Inginer Proiectant Junior",
-    "company": "ERPA HR SERVICES S.R.L.",
-    "location": [
-      "Câmpina,Ploiești,Brebu, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-17T13:07:02.977Z",
-    "status": "scraped",
-    "tags": [
-      "AutoCAD",
-      "Proiectare asistata de calculator"
-    ],
-    "matchPercentage": 60,
-    "reason": "Desenare si proiectare tehnica in AutoCAD/Allplan, competente de proiectare asistata de calculator utilizabile direct."
-  },
-  {
-    "url": "https://leviatan.ro/inginer-proiectant-cfdp-cai-ferate-drumuri-si-poduri/",
-    "title": "Inginer proiectant CFDP (Căi ferate, drumuri și poduri)",
-    "company": "LEVIATAN MANAGEMENT SRL",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-17T13:04:22.763Z",
-    "status": "scraped",
-    "tags": [
-      "Constructii drumuri si poduri",
-      "Cai de comunicatii si lucrari de arta"
-    ],
-    "matchPercentage": 95,
-    "reason": "Potrivire directa cu specializarea drumuri si poduri: proiectare cai de comunicatii, poduri si structuri."
-  },
-  {
-    "url": "https://leviatan.ro/inginer-proiectant-instalatii-sanitare-si-protectie-incendii/",
-    "title": "INGINER PROIECTANT INSTALAȚII SANITARE ȘI PROTECȚIE INCENDII",
-    "company": "LEVIATAN MANAGEMENT SRL",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-17T13:04:22.763Z",
-    "status": "scraped",
-    "tags": [
-      "Alimentari cu apa si canalizari",
-      "Securitatea la incendiu"
-    ],
-    "matchPercentage": 55,
-    "reason": "Instalatii sanitare se bazeaza pe alimentari cu apa si canalizari, iar protectia la incendiu pe securitatea la incendiu."
-  },
-  {
-    "url": "https://leviatan.ro/inginer-proiectant-constructii-civile-si-industriale/",
-    "title": "Inginer proiectant construcții civile și industriale",
-    "company": "LEVIATAN MANAGEMENT SRL",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-17T13:04:22.763Z",
-    "status": "scraped",
-    "tags": [
-      "Constructii civile si industriale",
-      "Calculul si proiectarea structurilor din beton armat"
-    ],
-    "matchPercentage": 95,
-    "reason": "Potrivire directa cu specializarea de constructii civile si industriale si proiectare structuri."
+    "matchPercentage": 65,
+    "reason": "Proiectare constructii industriale cu AutoCAD si calcule de structura de rezistenta, dar cere minim 3 ani experienta."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/inginer-geodez-topografie-si-cadastru-6",
@@ -234,92 +183,127 @@
       "Topografie si geodezie",
       "Amenajarea teritoriului si cadastru"
     ],
-    "matchPercentage": 90,
-    "reason": "Potrivire directa cu topografia, geodezia si cadastrul, competente cheie din planul de invatamant."
+    "matchPercentage": 88,
+    "reason": "Potrivire directa cu topografia, geodezia si cadastrul, inclusiv lucru cu GIS."
   },
   {
-    "url": "https://www.leohr.ro/jobs/specialist-achizitii-publice-in-constructii-proiectare/153/",
-    "title": "Specialist Achizitii Publice in Constructii – Proiectare",
-    "company": "LEOHR S.R.L.",
+    "url": "https://www.teamland.ro/apply.php?id=1384#content",
+    "title": "Project manager constructii civile",
+    "company": "TEAMLAND SRL",
     "location": [
-      "Bucuresti,Sector 2, Romania"
+      "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-09-17T13:09:24.662Z",
+    "date": "2026-09-20T13:00:46.988Z",
     "status": "scraped",
     "tags": [
       "Management in constructii",
-      "Proiectare asistata de calculator"
+      "Tehnologia si organizarea santierelor de constructii"
     ],
-    "matchPercentage": 45,
-    "reason": "Achizitii pentru proiectare: cunostintele tehnice de constructii si de documentatie de proiect sunt un avantaj clar."
+    "matchPercentage": 70,
+    "reason": "Management de proiect in constructii civile, se bazeaza pe management si organizarea santierului."
   },
   {
-    "url": "https://www.teamland.ro/apply.php?id=1265#content",
-    "title": "Inginer constructii - operatiuni",
-    "company": "TEAMLAND SRL",
+    "url": "https://urbica.ro/cariere-urbica/#2",
+    "title": "Construcții",
+    "company": "URBICA BUCIUM S.R.L.",
     "location": [
-      "Oradea, Romania"
+      "Iași, Romania"
     ],
     "salary": null,
-    "date": "2026-09-17T13:08:59.509Z",
+    "date": "2026-09-20T13:00:43.313Z",
     "status": "scraped",
     "tags": [
-      "Constructii civile si industriale",
+      "Tehnologia si organizarea santierelor de constructii",
       "Management in constructii"
     ],
-    "matchPercentage": 75,
-    "reason": "Post direct de inginer constructii, in domeniul constructiilor civile."
+    "matchPercentage": 55,
+    "reason": "Post general in constructii, potrivit ca punct de pornire, dar lipseste descrierea detaliata."
   },
   {
-    "url": "https://www.prohuman.ro/candidati/jobs/Iinginerconctructii",
+    "url": "https://conlangrup.ro/job/inginer-constructii/",
+    "title": "Inginer constructii",
+    "company": "CONLAN SRL",
+    "location": [
+      "Sibiu, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-20T13:00:02.527Z",
+    "status": "scraped",
+    "tags": [
+      "Constructii civile",
+      "Calculul structurilor"
+    ],
+    "matchPercentage": 85,
+    "reason": "Potrivit complet: proiectare si calcul de structuri, tehnologii de santier, AutoCAD."
+  },
+  {
+    "url": "https://recrutaresiselectie.ro/job/project-engineer-constructii-rezidentiale/",
+    "title": "Project engineer – constructii rezidentiale",
+    "company": "HUMAN CAPITAL SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-20T13:00:02.527Z",
+    "status": "scraped",
+    "tags": [
+      "Structuri beton armat",
+      "Management constructii"
+    ],
+    "matchPercentage": 80,
+    "reason": "Proiectare structuri rezidentiale din beton armat si organizare de santier."
+  },
+  {
+    "url": "https://www.prohuman.ro/candidati/jobs/engineerconstructioncivil",
     "title": "Inginer construcții civile",
     "company": "PROHUMAN APT S.R.L.",
     "location": [
       "Iași, Romania"
     ],
     "salary": null,
-    "date": "2026-09-17T13:08:55.975Z",
+    "date": "2026-09-20T12:59:17.416Z",
     "status": "scraped",
     "tags": [
-      "Constructii civile si industriale",
-      "Proiectare asistata de calculator"
+      "Constructii civile",
+      "Structuri beton armat"
     ],
-    "matchPercentage": 60,
-    "reason": "Constructii civile, relevee si CAD se potrivesc, dar se cere experienta de 2-3 ani."
+    "matchPercentage": 80,
+    "reason": "Proiectare si calcul de structuri civile, tehnologia constructiilor."
   },
   {
-    "url": "https://www.prohuman.ro/candidati/jobs/InginerConstrucții",
-    "title": "Inginer constructii civile",
+    "url": "https://www.prohuman.ro/candidati/jobs/Inginer-Ofertare-Construcții",
+    "title": "Inginer Ofertare Construcții",
+    "company": "PROHUMAN APT S.R.L.",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-20T12:58:56.676Z",
+    "status": "scraped",
+    "tags": [
+      "Management constructii",
+      "Constructii civile"
+    ],
+    "matchPercentage": 75,
+    "reason": "Devize si ofertare, management si organizarea santierelor, citire proiecte."
+  },
+  {
+    "url": "https://www.prohuman.ro/candidati/jobs/Inginerconstrcivile",
+    "title": "Inginer construcții civile",
     "company": "PROHUMAN APT S.R.L.",
     "location": [
       "Iași, Romania"
     ],
     "salary": null,
-    "date": "2026-09-17T13:08:55.975Z",
+    "date": "2026-09-20T12:58:56.676Z",
     "status": "scraped",
     "tags": [
-      "Constructii civile si industriale",
-      "Proiectare asistata de calculator"
+      "Constructii civile",
+      "Rezistenta materialelor"
     ],
-    "matchPercentage": 60,
-    "reason": "Constructii civile, relevee si CAD se potrivesc, dar se cere experienta de 2-3 ani."
-  },
-  {
-    "url": "https://erpahr.ro/jobs?ref=588&amp;title=specialist-achizitii-constructii",
-    "title": "Specialist Achizitii - constructii",
-    "company": "ERPA HR SERVICES S.R.L.",
-    "location": [
-      "Ploiești, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-17T13:08:52.931Z",
-    "status": "scraped",
-    "tags": [
-      "Management in constructii"
-    ],
-    "matchPercentage": 35,
-    "reason": "Rol de achizitii/aprovizionare; cunostintele tehnice ajuta la BOQ/RFQ, dar nu e inginerie de executie/proiectare."
+    "matchPercentage": 85,
+    "reason": "Compente direct aplicabile: rezistenta materialelor, statica, proiectare structuri."
   },
   {
     "url": "https://www.cabuzau.ro/despre-noi/cariere/responsabil-gis-departamentul-tehnic/",
@@ -329,13 +313,14 @@
       "Buzau, Romania"
     ],
     "salary": null,
-    "date": "2026-09-17T13:08:48.220Z",
+    "date": "2026-09-19T12:18:49.384Z",
     "status": "scraped",
     "tags": [
-      "Sisteme informatice geografice (GIS)"
+      "Sisteme GIS",
+      "Alimentari cu apa si canalizari"
     ],
-    "matchPercentage": 70,
-    "reason": "Competenta de sisteme informatice geografice (GIS) se aplica direct in compania de apa."
+    "matchPercentage": 75,
+    "reason": "Competenta directa in sisteme informatice geografice si retele de apa/canalizare."
   },
   {
     "url": "https://www.ejobs.ro/user/locuri-de-munca/inginer-calitate-cq-proiect-apa-si-canalizare-dambovita/1976765",
@@ -345,14 +330,14 @@
       "Bucuresti,Targoviste,Ploiesti, Romania"
     ],
     "salary": null,
-    "date": "2026-09-17T13:07:01.425Z",
+    "date": "2026-09-18T12:49:13.526Z",
     "status": "scraped",
     "tags": [
       "Alimentari cu apa si canalizari",
       "Constructii hidrotehnice"
     ],
-    "matchPercentage": 75,
-    "reason": "Proiect de apa si canalizare, constructii hidrotehnice - competente perfect aliniate; cere min. 3 ani experienta."
+    "matchPercentage": 70,
+    "reason": "Domeniul apa/canalizare este relevant, dar cere minim 3 ani experienta."
   },
   {
     "url": "https://multijobs.ro/job/sef-de-echipa-lucrari-de-canalizare-si-apa/3403",
@@ -366,10 +351,10 @@
     "status": "scraped",
     "tags": [
       "Alimentari cu apa si canalizari",
-      "Management in constructii"
+      "Tehnologia santierelor"
     ],
-    "matchPercentage": 55,
-    "reason": "Coordonare lucrari de apa si canalizare - cunostintele tehnice si de management sunt utile."
+    "matchPercentage": 65,
+    "reason": "Coordonare lucrari retele apa/canalizare; relevant pentru competente, insa rol preponderent de santier/echipa."
   },
   {
     "url": "https://www.ejobs.ro/user/locuri-de-munca/inginer-de-santier-executie-retele-apa-canalizare/1978156",
@@ -383,10 +368,10 @@
     "status": "scraped",
     "tags": [
       "Alimentari cu apa si canalizari",
-      "Management in constructii"
+      "Tehnologia santierelor"
     ],
-    "matchPercentage": 40,
-    "reason": "Domeniul apa-canalizare se potriveste, dar se cere experienta de min. 7 ani - peste nivel junior/mid."
+    "matchPercentage": 65,
+    "reason": "Domeniu potrivit (apa/canalizare), dar cere minim 7 ani experienta – nerealist pentru absolvent."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/manager-zonal-retele-apa-gaz-canale-si-irigatii",
@@ -399,11 +384,11 @@
     "date": "2026-09-04T12:46:59.167Z",
     "status": "scraped",
     "tags": [
-      "Alimentari cu apa si canalizari",
-      "Management in constructii"
+      "Management constructii",
+      "Alimentari cu apa si canalizari"
     ],
-    "matchPercentage": 90,
-    "reason": "Core direct cu domeniul hidrotehnic: retele de apa, canalizare si irigatii se regasesc pe deplin in competentele tale."
+    "matchPercentage": 60,
+    "reason": "Domeniu relevant, dar pozitie de management senior cu experienta, nu de debutant."
   },
   {
     "url": "https://www.jobradar24.ro/anunt/manager-proiect-lucrari-de-alimentare-cu-apa-si-canalizare-j65d68",
@@ -419,8 +404,8 @@
       "Alimentari cu apa si canalizari",
       "Management in constructii"
     ],
-    "matchPercentage": 92,
-    "reason": "Potrivire aproape perfecta: proiecte de alimentare cu apa si canalizare + rol de management, ambele in competentele tale."
+    "matchPercentage": 85,
+    "reason": "Direct legat de competentele din alimentari cu apa si canalizari, cu componenta de management de proiect"
   },
   {
     "url": "https://www.ejobs.ro/user/locuri-de-munca/inginer-constructor-terasamente-drumuri-sau-canalizare/1981061",
@@ -436,75 +421,92 @@
       "Cai de comunicatii si lucrari de arta",
       "Alimentari cu apa si canalizari"
     ],
-    "matchPercentage": 85,
-    "reason": "Terasamente, drumuri si canalizari acopera competentele tale de cai de comunicatii si retele hidroedilitare."
+    "matchPercentage": 70,
+    "reason": "Domeniile drumuri, terasamente si canalizare se regasesc direct in competentele mele"
   },
   {
-    "url": "https://electrogrup.applytojob.com/apply/jobs/details/5LJbi9R2qj",
-    "title": "Inginer Proiectare Constructii",
-    "company": "ELECTROGRUP SA",
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/270388/Working4U/Project-Manager-–-Consultanță-și-Proiectare-Infrastructură",
+    "title": "Project Manager – Consultanță și Proiectare Infrastructură",
+    "company": "WORKING UP LC SOLUTIONS SRL",
     "location": [
-      "Cluj-Napoca"
+      "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-09-17T11:15:36Z",
-    "status": "scraped",
-    "tags": [
-      "Calcul structuri beton armat",
-      "Proiectare asistata de calculator"
-    ],
-    "matchPercentage": 85,
-    "reason": "Proiectare in constructii foloseste direct competentele tale de calcul structural si CAD."
-  },
-  {
-    "url": "https://www.teamland.ro/apply.php?id=1060#content",
-    "title": "Sef Santier",
-    "company": "TEAMLAND SRL",
-    "location": [
-      "Ploiesti, Bucuresti, Targoviste ,Gaesti, Titu, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-17T13:10:58.035Z",
-    "status": "scraped",
-    "tags": [
-      "Tehnologia si organizarea santierelor",
-      "Management in constructii"
-    ],
-    "matchPercentage": 88,
-    "reason": "Conducerea de santier se bazeaza pe organizarea santierelor si managementul constructiilor, componente forte din planul tau."
-  },
-  {
-    "url": "https://www.prohuman.ro/candidati/jobs/ConstructionSupervisor",
-    "title": "Diriginte de șantier",
-    "company": "PROHUMAN APT S.R.L.",
-    "location": [
-      "Buzău, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-17T13:08:55.975Z",
-    "status": "scraped",
-    "tags": [
-      "Tehnologia si organizarea santierelor",
-      "Incercarea constructiilor"
-    ],
-    "matchPercentage": 80,
-    "reason": "Supravegherea tehnica a lucrarilor foloseste competentele de organizare a santierelor si incercarea constructiilor."
-  },
-  {
-    "url": "https://cariere.porr.ro/joburi-porr/joburi/8939",
-    "title": "Șef șantier",
-    "company": "PORR CONSTRUCT SRL",
-    "location": [
-      "București, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-17T13:08:45.381Z",
+    "date": "2026-09-20T12:57:11.863Z",
     "status": "scraped",
     "tags": [
       "Management in constructii",
-      "Tehnologia si organizarea santierelor"
+      "Proiectare asistata de calculator"
     ],
-    "matchPercentage": 90,
-    "reason": "Santier de infrastructura, management si coordonare - exact in aria ta de management al constructiilor."
+    "matchPercentage": 75,
+    "reason": "Proiectare si management de proiect in infrastructura, in directa legatura cu competentele"
+  },
+  {
+    "url": "https://cariere.porr.ro/joburi-porr/joburi/7879",
+    "title": "Coordonator Proiectare",
+    "company": "PORR CONSTRUCT SRL",
+    "location": [
+      "Caransebeș, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-20T12:57:11.863Z",
+    "status": "scraped",
+    "tags": [
+      "Management in constructii",
+      "Proiectare asistata de calculator"
+    ],
+    "matchPercentage": 78,
+    "reason": "Coordonarea proiectarii in constructii, potrivit pentru profil de inginer constructor"
+  },
+  {
+    "url": "https://www.teamland.ro/apply.php?id=1058#content",
+    "title": "Sef santier",
+    "company": "TEAMLAND SRL",
+    "location": [
+      "Ploiesti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-20T13:00:44.040Z",
+    "status": "scraped",
+    "tags": [
+      "Management in constructii",
+      "Tehnologia si organizarea santierelor de constructii"
+    ],
+    "matchPercentage": 55,
+    "reason": "Organizarea si conducerea santierului, in aria managementului si tehnologiei constructiilor"
+  },
+  {
+    "url": "https://jobboerse.strabag.at/job-detail.php?ReqId=req68591&amp;language=RO&amp;source=",
+    "title": "Inginer Sef Santier - Buzau",
+    "company": "STRABAG SRL",
+    "location": [
+      "Buzau, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-20T12:57:27.881Z",
+    "status": "scraped",
+    "tags": [
+      "Tehnologia si organizarea santierelor de constructii",
+      "Management in constructii"
+    ],
+    "matchPercentage": 60,
+    "reason": "Rol de inginer sef santier, direct in profil de constructii"
+  },
+  {
+    "url": "https://jobboerse.strabag.at/job-detail.php?ReqId=req62699&amp;language=RO&amp;source=",
+    "title": "Sef santier / Sef formatie",
+    "company": "STRABAG SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-20T12:57:27.881Z",
+    "status": "scraped",
+    "tags": [
+      "Tehnologia si organizarea santierelor de constructii",
+      "Management in constructii"
+    ],
+    "matchPercentage": 55,
+    "reason": "Conducerea formatiei/santierului, relevant pentru competentele de organizare a constructiilor"
   }
 ]

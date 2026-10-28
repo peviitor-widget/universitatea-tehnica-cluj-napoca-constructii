@@ -1,39 +1,76 @@
 [
   {
-    "url": "https://electrogrup.applytojob.com/apply/jobs/details/7LMwg2NYRW",
-    "title": "Inginer Proiectare Constructii",
-    "company": "ELECTROGRUP SA",
+    "url": "https://oferimdemunca.ro/job/ingineri-structuristi-beton-metal-infrastructura-rutiera-imbunatatire-funciara-specialisti-ssm-psi-siguranta-si-exploatare-impotriva-zgomotului/",
+    "title": "Ingineri structuristi beton, metal, infrastructura rutieră, îmbunătățire funciară, specialisti SSM, PSI, siguranță și exploatare , împotriva zgomotului",
+    "company": "MSL INDUSTRIES S.R.L.",
     "location": [
+      "București",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:16:32.993Z",
+    "status": "scraped",
+    "tags": [
+      "beton armat",
+      "structuri"
+    ],
+    "matchPercentage": 95,
+    "reason": "Proiectare structuri din beton armat și metal, direct din planul de învățământ."
+  },
+  {
+    "url": "https://jobs.arcadis.com/careers/job/563671532911732",
+    "title": "Structures - BIM Modeler",
+    "company": "ARCADIS SRL",
+    "location": [
+      "Iași",
       "Bucuresti",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-26T12:30:15Z",
+    "date": "2026-10-17T12:11:47.161Z",
     "status": "scraped",
     "tags": [
-      "fundatii",
-      "beton armat"
+      "structuri",
+      "bim"
     ],
-    "matchPercentage": 95,
-    "reason": "Proiectare fundatii si structuri din beton armat/metal pentru infrastructura."
+    "matchPercentage": 92,
+    "reason": "Structures BIM Modeler, direct relevant pentru proiectarea structurilor din beton armat si modelare CAD/BIM."
   },
   {
-    "url": "https://electrogrup.applytojob.com/apply/jobs/details/UGD5eq04pv",
-    "title": "Inginer Proiectare Constructii",
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/K2pZrtCse1",
+    "title": "Inginer Cantitati",
     "company": "ELECTROGRUP SA",
     "location": [
       "Cluj-Napoca",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-26T12:30:15Z",
+    "date": "2026-10-27T11:48:31Z",
     "status": "scraped",
     "tags": [
-      "fundatii",
-      "beton armat"
+      "devize",
+      "cantități"
     ],
-    "matchPercentage": 95,
-    "reason": "Proiectare fundatii si structuri din beton armat/metal pentru infrastructura."
+    "matchPercentage": 90,
+    "reason": "Calculul cantităților și întocmirea devizelor, direct relevant pentru construcții."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3410735",
+    "title": "INGINER CONSTRUCTII CIVILE, INDUSTRIALE SI AGRICOLE",
+    "company": "BRAMIS REBUILD S.R.L.",
+    "location": [
+      "Botosani",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:22:51.110Z",
+    "status": "scraped",
+    "tags": [
+      "proiectare",
+      "fundatii"
+    ],
+    "matchPercentage": 90,
+    "reason": "Inginer constructii civile/industriale/agricole, nivel potrivit pentru junior."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3173367",
@@ -50,62 +87,8 @@
       "topografie",
       "hidrotehnică"
     ],
-    "matchPercentage": 95,
-    "reason": "Topografie pentru construcții hidrotehnice, nivel junior potrivit."
-  },
-  {
-    "url": "https://oferimdemunca.ro/job/ingineri-structuristi-beton-metal-infrastructura-rutiera-imbunatatire-funciara-specialisti-ssm-psi-siguranta-si-exploatare-impotriva-zgomotului/",
-    "title": "Ingineri structuristi beton, metal, infrastructura rutieră, îmbunătățire funciară, specialisti SSM, PSI, siguranță și exploatare , împotriva zgomotului",
-    "company": "MSL INDUSTRIES S.R.L.",
-    "location": [
-      "București",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:16:32.993Z",
-    "status": "scraped",
-    "tags": [
-      "beton armat",
-      "structuri"
-    ],
-    "matchPercentage": 95,
-    "reason": "Inginerie structurală beton/metal și infrastructură rutieră direct relevante."
-  },
-  {
-    "url": "https://www.jobradar24.ro/anunt/inginer-proiectant-constructii-cladiri-si-fundatii-45m7j5",
-    "title": "INGINER PROIECTANT CONSTRUCTII CLĂDIRI ȘI FUNDAȚII",
-    "company": "FABCORP BRAND SRL",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:15:34.907Z",
-    "status": "scraped",
-    "tags": [
-      "fundații",
-      "structuri"
-    ],
-    "matchPercentage": 95,
-    "reason": "Proiectarea clădirilor și fundațiilor corespunde direct competențelor de structură."
-  },
-  {
-    "url": "https://www.prohuman.ro/candidati/jobs/Proiectantstructuriderezistenta",
-    "title": "Proiectant structuri de rezistență",
-    "company": "PROHUMAN APT S.R.L.",
-    "location": [
-      "Iași",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:22:35.322Z",
-    "status": "scraped",
-    "tags": [
-      "structuri",
-      "calcul"
-    ],
-    "matchPercentage": 95,
-    "reason": "Proiectarea structurilor de rezistență este direct relevantă pentru domeniul tău."
+    "matchPercentage": 90,
+    "reason": "Topografie pentru construcții hidrotehnice, nivel <3 ani potrivit."
   },
   {
     "url": "https://www.jobradar24.ro/anunt/inginer-proiectant-de-structurigeotehnician-constructii-2k2jvp",
@@ -122,8 +105,8 @@
       "structuri",
       "geotehnică"
     ],
-    "matchPercentage": 95,
-    "reason": "Proiectarea structurilor și geotehnică corespunde direct competențelor tale."
+    "matchPercentage": 90,
+    "reason": "Proiectare structuri/geotehnică corespunde direct competențelor tehnice de specialitate."
   },
   {
     "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/271914/Apa-Nova---o-companie-Veolia/INGINER-MODELARE-HIDRAULICA",
@@ -138,10 +121,82 @@
     "status": "scraped",
     "tags": [
       "hidraulică",
-      "modelare"
+      "rețele ape"
     ],
-    "matchPercentage": 95,
-    "reason": "Modelarea hidraulică se potrivește domeniului apeducte, canalizări și hidrotehnică."
+    "matchPercentage": 90,
+    "reason": "Modelarea hidraulică se potrivește domeniilor apeducte, canalizări și hidrotehnică."
+  },
+  {
+    "url": "https://jobs.arcadis.com/careers/job/563671532663800",
+    "title": "BIM Coordinator",
+    "company": "ARCADIS SRL",
+    "location": [
+      "Bucuresti",
+      "Iași",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:07:52.553Z",
+    "status": "scraped",
+    "tags": [
+      "structuri",
+      "bim"
+    ],
+    "matchPercentage": 86,
+    "reason": "BIM Coordinator pentru structuri, relevant pentru modelare structurala si coordonare interdisciplinara."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/271882/Arcadis-Global-Excellence-Center/BIM-Coordinator",
+    "title": "BIM Coordinator",
+    "company": "ARCADIS EXCELLENCE CENTER ROMANIA S.A.",
+    "location": [
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:06:46.475Z",
+    "status": "scraped",
+    "tags": [
+      "structuri",
+      "bim"
+    ],
+    "matchPercentage": 86,
+    "reason": "BIM Coordinator, relevant pentru structuri si proiectare asistata de calculator."
+  },
+  {
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/XJ0EvHFRCT",
+    "title": "Coordonator Constructii Civile",
+    "company": "ELECTROGRUP SA",
+    "location": [
+      "Constanta",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-27T11:48:31Z",
+    "status": "scraped",
+    "tags": [
+      "șantier",
+      "management"
+    ],
+    "matchPercentage": 85,
+    "reason": "Coordonare directă pe șantier pentru lucrări de construcții civile."
+  },
+  {
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/eUrJcp8V7k",
+    "title": "Inginer Calitate Civile",
+    "company": "ELECTROGRUP SA",
+    "location": [
+      "Constanta",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-27T11:48:31Z",
+    "status": "scraped",
+    "tags": [
+      "calitate",
+      "șantier"
+    ],
+    "matchPercentage": 85,
+    "reason": "Controlul calității pentru lucrări civile, relevant pentru construcții."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3390023",
@@ -156,46 +211,63 @@
     "status": "scraped",
     "tags": [
       "topografie",
-      "canalizări"
+      "apă-canal"
     ],
-    "matchPercentage": 90,
-    "reason": "Topografie pentru utilități apă/canalizare, nivel <3 ani potrivit."
+    "matchPercentage": 85,
+    "reason": "Topografie pentru utilități apă-canal, cerință <3 ani potrivită."
   },
   {
-    "url": "https://electrogrup.applytojob.com/apply/jobs/details/XJ0EvHFRCT",
-    "title": "Coordonator Constructii Civile",
-    "company": "ELECTROGRUP SA",
+    "url": "https://www.jobradar24.ro/anunt/inginer-proiectant-constructii-cladiri-si-fundatii-45m7j5",
+    "title": "INGINER PROIECTANT CONSTRUCTII CLĂDIRI ȘI FUNDAȚII",
+    "company": "FABCORP BRAND SRL",
     "location": [
-      "Constanta",
+      "Bucuresti",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-26T12:30:15Z",
+    "date": "2026-10-17T12:15:34.907Z",
     "status": "scraped",
     "tags": [
-      "constructii",
-      "santier"
+      "fundații",
+      "structuri"
     ],
     "matchPercentage": 85,
-    "reason": "Coordonare lucrari constructii civile"
+    "reason": "Proiectarea clădirilor și fundațiilor corespunde direct competențelor de proiectare structurală."
   },
   {
-    "url": "https://www.cabuzau.ro/despre-noi/cariere/responsabil-gis-departamentul-tehnic/",
-    "title": "Responsabil GIS – Departament Tehnic",
-    "company": "COMPANIA DE APĂ BACĂU SA",
+    "url": "https://multijobs.ro/job/inginer-proiectant-structuri/5600",
+    "title": "Inginer Proiectant Structuri",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
     "location": [
-      "Buzau",
+      "Cluj-Napoca",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-17T12:07:28.140Z",
+    "date": "2026-10-17T12:16:35.206Z",
     "status": "scraped",
     "tags": [
-      "GIS",
-      "canalizări"
+      "structuri",
+      "calcul"
     ],
     "matchPercentage": 85,
-    "reason": "GIS pentru rețele de apă și canalizare într-o companie de utilități."
+    "reason": "Proiectarea structurilor este direct relevantă pentru competențele de calcul structural."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272256/AECOM-/BIM-Coordinator",
+    "title": "BIM Coordinator",
+    "company": "AECOM INGENIERIA SRL",
+    "location": [
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:06:13.777Z",
+    "status": "scraped",
+    "tags": [
+      "bim",
+      "proiectare"
+    ],
+    "matchPercentage": 84,
+    "reason": "BIM Coordinator, relevant partial pentru proiectare si modelare in cadrul proiectelor de infrastructura."
   },
   {
     "url": "https://oferimdemunca.ro/job/inginer-topograf-geodez/",
@@ -212,44 +284,8 @@
       "topografie",
       "geodezie"
     ],
-    "matchPercentage": 85,
-    "reason": "Trasări și verificări topografice pe șantiere de construcții."
-  },
-  {
-    "url": "https://www.teamland.ro/apply.php?id=937#content",
-    "title": "Inginer topograf",
-    "company": "TEAMLAND SRL",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:03:39.601Z",
-    "status": "scraped",
-    "tags": [
-      "topografie",
-      "cadastru"
-    ],
-    "matchPercentage": 85,
-    "reason": "Topografie și cadastru relevante pentru amenajarea teritoriului."
-  },
-  {
-    "url": "https://electrogrup.applytojob.com/apply/jobs/details/eUrJcp8V7k",
-    "title": "Inginer Calitate Civile",
-    "company": "ELECTROGRUP SA",
-    "location": [
-      "Constanta",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-26T12:30:15Z",
-    "status": "scraped",
-    "tags": [
-      "calitate",
-      "constructii"
-    ],
     "matchPercentage": 80,
-    "reason": "Control calitate lucrari civile"
+    "reason": "Topografie și geodezie pe șantier, direct relevantă pentru construcții."
   },
   {
     "url": "https://multijobs.ro/job/inginer-topograf/2174",
@@ -263,10 +299,11 @@
     "date": "2026-10-17T12:15:05.993Z",
     "status": "scraped",
     "tags": [
-      "topografie"
+      "topografie",
+      "geodezie"
     ],
     "matchPercentage": 80,
-    "reason": "Rol de inginer topograf relevant pentru competentele de măsurători."
+    "reason": "Activități de topografie inginerească relevante pentru domeniul construcțiilor."
   },
   {
     "url": "https://cona.ro/cariere/#heading_998546",
@@ -284,7 +321,25 @@
       "geodezie"
     ],
     "matchPercentage": 80,
-    "reason": "Activități geodez/topograf în domeniul construcțiilor."
+    "reason": "Geodezie/topografie pe șantier, potrivită pentru un student sau absolvent."
+  },
+  {
+    "url": "https://www.ejobs.ro/user/locuri-de-munca/inginer-geodez-tehnician-topograf/99249516",
+    "title": "Inginer geodez / Tehnician topograf",
+    "company": "RR CAD-CAM DENTISTRY S.R.L.",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:10:04.689Z",
+    "status": "scraped",
+    "tags": [
+      "topografie",
+      "infrastructură"
+    ],
+    "matchPercentage": 80,
+    "reason": "Asistență topografică pe infrastructură rutieră, relevantă pentru domeniu."
   },
   {
     "url": "https://multijobs.ro/job/topograf/6725",
@@ -298,46 +353,29 @@
     "date": "2026-10-17T12:07:20.531Z",
     "status": "scraped",
     "tags": [
-      "topografie"
+      "topografie",
+      "geodezie"
     ],
     "matchPercentage": 80,
-    "reason": "Rol topografic relevant pentru proiecte de construcții."
+    "reason": "Topografie inginerească pe șantier, nivel potrivit pentru entry-level."
   },
   {
-    "url": "https://apply.workable.com/j/F3B0C57EA6",
-    "title": "Owner&#039;s Engineering Services (Civil &amp; Industrial Construction) External Advisor",
-    "company": "INTERTEK INDUSTRY SERVICES ROMANIA SRL",
+    "url": "https://www.teamland.ro/apply.php?id=937#content",
+    "title": "Inginer topograf",
+    "company": "TEAMLAND SRL",
     "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-10-26T12:30:38.056Z",
-    "status": "scraped",
-    "tags": [
-      "constructii",
-      "proiectare"
-    ],
-    "matchPercentage": 75,
-    "reason": "Inginerie civila pentru constructii industriale"
-  },
-  {
-    "url": "https://jobs.arcadis.com/careers/job/563671532911732",
-    "title": "Structures - BIM Modeler",
-    "company": "ARCADIS SRL",
-    "location": [
-      "Iași",
       "Bucuresti",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-17T12:11:47.161Z",
+    "date": "2026-10-17T12:03:39.601Z",
     "status": "scraped",
     "tags": [
-      "CAD",
-      "structuri"
+      "cadastru",
+      "topografie"
     ],
-    "matchPercentage": 75,
-    "reason": "Modelare BIM pentru structuri utilizează proiectarea asistată de calculator și elemente structurale."
+    "matchPercentage": 80,
+    "reason": "Activități de cadastru și topografie relevante pentru amenajări teritoriale."
   },
   {
     "url": "https://multijobs.ro/job/topograf/57",
@@ -351,65 +389,86 @@
     "date": "2026-10-17T12:00:57.999Z",
     "status": "scraped",
     "tags": [
-      "topografie"
+      "topografie",
+      "geodezie"
     ],
-    "matchPercentage": 75,
-    "reason": "Activități topografice aplicabile domeniului construcțiilor."
+    "matchPercentage": 80,
+    "reason": "Topografie inginerească pe șantier, direct relevantă pentru construcții."
   },
   {
-    "url": "https://ro.gigroup.com/job-detail/bucuresti-sectorul-1-bucuresti-coordonator-echipa-santier-amenajari-interioare/14691/",
-    "title": "Coordonator Echipa Santier / Amenajari Interioare",
-    "company": "GI GROUP STAFFING COMPANY SRL",
+    "url": "https://www.prohuman.ro/candidati/jobs/Proiectantstructuriderezistenta",
+    "title": "Proiectant structuri de rezistență",
+    "company": "PROHUMAN APT S.R.L.",
+    "location": [
+      "Iași",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:22:35.322Z",
+    "status": "scraped",
+    "tags": [
+      "structuri",
+      "beton armat"
+    ],
+    "matchPercentage": 80,
+    "reason": "Proiectarea structurilor de rezistență se potrivește competențelor, nivelul fiind acceptabil."
+  },
+  {
+    "url": "https://www.randstad.ro/locuri-de-munca/inginer-proiectare-instalatii-sanitare-si-stingere-incendii_bucuresti_4992/",
+    "title": "inginer proiectare instalații sanitare și stingere incendii",
+    "company": "RANDSTAD ROMANIA SRL",
     "location": [
       "București",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-17T12:05:57.406Z",
+    "date": "2026-10-27T11:34:25.390Z",
     "status": "scraped",
     "tags": [
-      "Constructii",
-      "Amenajari"
+      "canalizari",
+      "ape"
     ],
-    "matchPercentage": 75,
-    "reason": "Coordonare santier pentru amenajari interioare"
+    "matchPercentage": 76,
+    "reason": "Instalatii sanitare si stingere incendii, partial relevante pentru apeducte, canalizari si instalatii."
   },
   {
-    "url": "https://jobs.arcadis.com/careers/job/563671532663800",
-    "title": "BIM Coordinator",
-    "company": "ARCADIS SRL",
+    "url": "https://multijobs.ro/job/tehnician-desenator-proiectant/795",
+    "title": "Tehnician-Desenator Proiectant",
+    "company": "LOCAL 23 GEO S.R.L.",
     "location": [
       "Bucuresti",
-      "Iași",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-17T12:07:52.553Z",
+    "date": "2026-10-17T12:06:12.715Z",
     "status": "scraped",
     "tags": [
-      "CAD",
-      "structuri"
+      "geotehnica",
+      "topografie"
     ],
-    "matchPercentage": 72,
-    "reason": "BIM Coordinator pentru proiecte de inginerie civilă utilizează competențe de coordonare și modelare BIM aplicate structurilor."
+    "matchPercentage": 75,
+    "reason": "Activitati legate de geotehnica, topografie si cadastru relevante partial."
   },
   {
-    "url": "https://electrogrup.applytojob.com/apply/jobs/details/QACN0kyEi6",
-    "title": "Project Controller Constructii Civile",
-    "company": "ELECTROGRUP SA",
+    "url": "https://www.bestjobs.eu/loc-de-munca/tehnician-inginer-autocad-2",
+    "title": "TEHNICIAN/INGINER AUTOCAD",
+    "company": "MSM ALUMINIUM &amp; PVC SYSTEMS SRL",
     "location": [
-      "Cluj-Napoca",
+      "Str. Splaiul Unirii",
+      "nr. 5B",
+      "Popesti-Leordeni",
+      "Ilfov",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-26T12:30:15Z",
+    "date": "2026-10-16T13:03:33.895Z",
     "status": "scraped",
     "tags": [
-      "devize",
-      "proiecte"
+      "cad",
+      "desen-tehnic"
     ],
-    "matchPercentage": 70,
-    "reason": "Activitati de devize si control financiar al lucrarilor civile, partial relevante."
+    "matchPercentage": 72,
+    "reason": "Proiectare/tehnic AutoCAD pentru sisteme arhitecturale, relevant partial pentru desen tehnic si CAD."
   },
   {
     "url": "https://www.targuldecariere.ro/companii/e-infra-/18858/inginer-proiectare-constructii",
@@ -423,115 +482,64 @@
     "date": "2026-10-17T12:19:45.828Z",
     "status": "scraped",
     "tags": [
-      "structuri",
-      "fundații"
+      "constructii",
+      "proiectare"
     ],
-    "matchPercentage": 70,
-    "reason": "Proiectare construcții se potrivește parțial cu competențele de proiectare și dimensionare structurală."
+    "matchPercentage": 71,
+    "reason": "Proiectare constructii, partial relevant pentru ingineria civila, nivel acceptabil."
   },
   {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/271882/Arcadis-Global-Excellence-Center/BIM-Coordinator",
-    "title": "BIM Coordinator",
-    "company": "ARCADIS EXCELLENCE CENTER ROMANIA S.A.",
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272670/Lidl-Romania/PMO-Constructii,-zona-Centru---perioada-det.-36-luni-(f/m)",
+    "title": "PMO Constructii, zona Centru - perioada det. 36 luni (f/m)",
+    "company": "LIDL ROMANIA SRL",
     "location": [
+      "Ploiesti",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-17T12:06:46.475Z",
+    "date": "2026-10-17T12:22:46.090Z",
+    "status": "scraped",
+    "tags": [
+      "management",
+      "devize"
+    ],
+    "matchPercentage": 70,
+    "reason": "PMO in constructii poate folosi managementul de proiect, dar sarcinile nu sunt pur de proiectare."
+  },
+  {
+    "url": "https://multijobs.ro/job/desenator-tehnic/3183",
+    "title": "Desenator tehnic",
+    "company": "RO CONSTRUCT CENTER SRL",
+    "location": [
+      "Pitești",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:03:14.838Z",
     "status": "scraped",
     "tags": [
       "CAD",
-      "structuri"
+      "desen"
     ],
     "matchPercentage": 70,
-    "reason": "BIM Coordinator permite aplicarea cunoștințelor de proiectare asistată de calculator în contexte de inginerie civilă."
+    "reason": "Desenator tehnic in domeniul constructiilor, dar mai mult executiv decat proiectare."
   },
   {
-    "url": "https://www.prohuman.ro/candidati/jobs/Inginer-Controlul-Calitătii-Prefabricate-Beton",
-    "title": "Inginer Controlul Calității Producție Prefabricate Beton",
-    "company": "PROHUMAN APT S.R.L.",
+    "url": "https://ro.gigroup.com/job-detail/bucuresti-sectorul-1-bucuresti-coordonator-echipa-santier-amenajari-interioare/14691/",
+    "title": "Coordonator Echipa Santier / Amenajari Interioare",
+    "company": "GI GROUP STAFFING COMPANY SRL",
     "location": [
-      "Buzău",
+      "București",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-17T12:15:50.485Z",
+    "date": "2026-10-17T12:05:57.406Z",
     "status": "scraped",
     "tags": [
-      "materiale",
-      "tehnologie"
+      "santier",
+      "coordonare"
     ],
     "matchPercentage": 70,
-    "reason": "Controlul calității pentru prefabricate din beton se potrivește parțial domeniului construcțiilor."
-  },
-  {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272256/AECOM-/BIM-Coordinator",
-    "title": "BIM Coordinator",
-    "company": "AECOM INGENIERIA SRL",
-    "location": [
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:06:13.777Z",
-    "status": "scraped",
-    "tags": [
-      "CAD",
-      "infrastructură"
-    ],
-    "matchPercentage": 68,
-    "reason": "BIM Coordinator aplicat proiectelor de infrastructură se potrivește parțial competențelor de proiectare și coordonare."
-  },
-  {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272255/AECOM-/BIM-Coordinator-–-Data-Centers",
-    "title": "BIM Coordinator – Data Centers",
-    "company": "AECOM INGENIERIA SRL",
-    "location": [
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:06:13.777Z",
-    "status": "scraped",
-    "tags": [
-      "CAD",
-      "structuri"
-    ],
-    "matchPercentage": 66,
-    "reason": "BIM Coordinator pentru Data Centers are relevanță parțială pentru proiectare și coordonare în domeniul construcțiilor."
-  },
-  {
-    "url": "https://careers.evolution.com/job/744000155984419/",
-    "title": "Facilities Coordinator",
-    "company": "EVOLUTION PRODUCTS RO S.R.L.",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-26T12:42:36Z",
-    "status": "scraped",
-    "tags": [
-      "alimentare apa",
-      "canalizare"
-    ],
-    "matchPercentage": 65,
-    "reason": "Domeniul se potriveste partial - mentioneaza operarea retelelor de apa si canalizare."
-  },
-  {
-    "url": "https://www.randstad.ro/locuri-de-munca/operator-tratare-apa_pantelimon_5443/",
-    "title": "operator tratare apa",
-    "company": "RANDSTAD ROMANIA SRL",
-    "location": [
-      "Pantelimon",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-26T12:13:28.110Z",
-    "status": "scraped",
-    "tags": [
-      "gospodarirea apelor",
-      "ape uzate"
-    ],
-    "matchPercentage": 60,
-    "reason": "Operatorul de tratare a apei activeaza direct in domeniul apelor uzate si al gospodaririi apelor, dar rolul este operational, nu de proiectare."
+    "reason": "Coordonare șantier pentru amenajări, utilizează organizarea și tehnologia construcțiilor."
   }
 ]

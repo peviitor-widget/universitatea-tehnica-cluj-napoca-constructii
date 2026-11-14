@@ -1,1 +1,200 @@
-[]
+[
+  {
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/7LMwg2NYRW",
+    "title": "Inginer Proiectare Constructii",
+    "company": "ELECTROGRUP SA",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-13T14:12:23Z",
+    "status": "scraped",
+    "tags": [
+      "beton armat",
+      "fundatii"
+    ],
+    "matchPercentage": 90,
+    "reason": "Proiectare fundatii si structuri din beton armat cu calcul si normative Eurocode, potrivire directa pe domeniu."
+  },
+  {
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/UGD5eq04pv",
+    "title": "Inginer Proiectare Constructii",
+    "company": "ELECTROGRUP SA",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-13T14:12:23Z",
+    "status": "scraped",
+    "tags": [
+      "beton armat",
+      "fundatii"
+    ],
+    "matchPercentage": 90,
+    "reason": "Proiectare fundatii si structuri din beton armat cu calcul si normative Eurocode, potrivire directa pe domeniu."
+  },
+  {
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/VU1Kxl4KWU",
+    "title": "Inginer Constructii Civile",
+    "company": "ELECTROGRUP SA",
+    "location": [
+      "Piatra-Neamt",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-13T14:12:23Z",
+    "status": "scraped",
+    "tags": [
+      "constructii civile",
+      "executie santier"
+    ],
+    "matchPercentage": 86,
+    "reason": "Pozitia de inginer constructii civile implica verificarea proiectelor, urmarirea executiei si documentatie tehnica de santier, folosind direct competentele de constructii si management al lucrarilor."
+  },
+  {
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/TrwICcbMIz",
+    "title": "Inginer Constructii Civile",
+    "company": "ELECTROGRUP SA",
+    "location": [
+      "Constanta",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-13T14:12:23Z",
+    "status": "scraped",
+    "tags": [
+      "constructii civile",
+      "executie santier"
+    ],
+    "matchPercentage": 86,
+    "reason": "Pozitia de inginer constructii civile implica verificarea proiectelor, urmarirea executiei si documentatie tehnica de santier, folosind direct competentele de constructii si management al lucrarilor."
+  },
+  {
+    "url": "https://www.randstad.ro/locuri-de-munca/inginer-proiectare-instalatii-sanitare-si-stingere-incendii_bucuresti_5476/",
+    "title": "inginer proiectare instalații sanitare și stingere incendii",
+    "company": "RANDSTAD ROMANIA SRL",
+    "location": [
+      "București",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-13T13:53:42.731Z",
+    "status": "scraped",
+    "tags": [
+      "apeducte canalizari",
+      "securitate incendiu"
+    ],
+    "matchPercentage": 78,
+    "reason": "Proiectare instalatii sanitare si stingere incendii pentru absolventi de constructii, potrivire buna pe apeducte/canalizari si securitate la incendiu."
+  },
+  {
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/4Hx8ssFldb",
+    "title": "Inginer Calitate Civile",
+    "company": "ELECTROGRUP SA",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-13T14:12:23Z",
+    "status": "scraped",
+    "tags": [
+      "materiale constructii",
+      "tehnologia santierelor"
+    ],
+    "matchPercentage": 72,
+    "reason": "Inginerie civila cu verificarea calitatii lucrarilor, materialelor si documentatiei tehnice de santier, la nivel potrivit de inceput."
+  },
+  {
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/eUrJcp8V7k",
+    "title": "Inginer Calitate Civile",
+    "company": "ELECTROGRUP SA",
+    "location": [
+      "Constanta",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-13T14:12:23Z",
+    "status": "scraped",
+    "tags": [
+      "materiale constructii",
+      "tehnologia santierelor"
+    ],
+    "matchPercentage": 72,
+    "reason": "Inginerie civila cu verificarea calitatii lucrarilor, materialelor si documentatiei tehnice de santier, la nivel potrivit de inceput."
+  },
+  {
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/K2pZrtCse1",
+    "title": "Inginer Cantitati",
+    "company": "ELECTROGRUP SA",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-13T14:12:23Z",
+    "status": "scraped",
+    "tags": [
+      "devize",
+      "management constructii"
+    ],
+    "matchPercentage": 68,
+    "reason": "Inginer cantitati in constructii, cu devize, liste de cantitati si situatii de lucrari, relevant pentru managementul in constructii."
+  },
+  {
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/gXFZteuUSi",
+    "title": "Maistru Constructii",
+    "company": "ELECTROGRUP SA",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-13T14:12:23Z",
+    "status": "scraped",
+    "tags": [
+      "organizare santier",
+      "management constructii"
+    ],
+    "matchPercentage": 62,
+    "reason": "Rol de santier care foloseste organizarea si tehnologia lucrarilor, potrivire partiala pe executie si management."
+  },
+  {
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/TZGZ8dG1Gv",
+    "title": "Maistru Constructii",
+    "company": "ELECTROGRUP SA",
+    "location": [
+      "Constanta",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-13T14:12:23Z",
+    "status": "scraped",
+    "tags": [
+      "organizare santier",
+      "management constructii"
+    ],
+    "matchPercentage": 62,
+    "reason": "Rol de santier care foloseste organizarea si tehnologia lucrarilor, potrivire partiala pe executie si management."
+  },
+  {
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/i85JQZTNPQ",
+    "title": "Project Controller Constructii Civile",
+    "company": "ELECTROGRUP SA",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-13T14:12:23Z",
+    "status": "scraped",
+    "tags": [
+      "devize",
+      "management constructii"
+    ],
+    "matchPercentage": 60,
+    "reason": "Verificare devize si situatii de lucrari, potrivire partiala pe managementul proiectelor de constructii."
+  }
+]

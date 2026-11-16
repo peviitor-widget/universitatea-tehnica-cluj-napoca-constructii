@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3447043",
-    "title": "INGINER CONSTRUCTII HIDROTEHNICE",
-    "company": "VERTATEL INTERNATIONAL S.R.L.",
-    "location": [
-      "MAGURELE",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-15T09:24:25Z",
-    "status": "scraped",
-    "tags": [
-      "constructii hidrotehnice",
-      "baraje si acumulari"
-    ],
-    "matchPercentage": 95,
-    "reason": "Inginer constructii hidrotehnice fara experienta, potrivire directa cu baraje, amenajari si hidraulica."
-  },
-  {
     "url": "https://electrogrup.applytojob.com/apply/jobs/details/7LMwg2NYRW",
     "title": "Inginer Proiectare Constructii",
     "company": "ELECTROGRUP SA",
@@ -26,14 +8,14 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-14T13:11:31Z",
+    "date": "2026-11-15T13:39:50Z",
     "status": "scraped",
     "tags": [
       "beton armat",
-      "fundatii"
+      "proiectare fundatii"
     ],
-    "matchPercentage": 90,
-    "reason": "Proiectează fundații și structuri din beton armat sau metal, cu calcul și documentații tehnice, potrivit profilului de construcții."
+    "matchPercentage": 92,
+    "reason": "Proiectare de fundatii si structuri din beton armat/metal, cu calcul si dimensionare structurala, se potriveste direct specializarii."
   },
   {
     "url": "https://electrogrup.applytojob.com/apply/jobs/details/UGD5eq04pv",
@@ -44,14 +26,14 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-14T13:11:31Z",
+    "date": "2026-11-15T13:39:50Z",
     "status": "scraped",
     "tags": [
       "beton armat",
-      "fundatii"
+      "proiectare fundatii"
     ],
-    "matchPercentage": 90,
-    "reason": "Proiectează fundații și structuri din beton armat sau metal, cu calcul și documentații tehnice, potrivit profilului de construcții."
+    "matchPercentage": 92,
+    "reason": "Proiectare de fundatii si structuri din beton armat/metal, cu calcul si dimensionare structurala, se potriveste direct specializarii."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3447047",
@@ -65,11 +47,11 @@
     "date": "2026-11-15T09:24:25Z",
     "status": "scraped",
     "tags": [
-      "structuri beton armat",
-      "rezistenta si stabilitate"
+      "inginerie civila",
+      "constructii"
     ],
-    "matchPercentage": 88,
-    "reason": "Pozitie de inginer constructii civile la nivel de entry, potrivita direct cu proiectarea si calculul structurilor."
+    "matchPercentage": 82,
+    "reason": "Post de inginer constructii civile, industriale si agricole pentru absolventi fara experienta, direct in domeniu."
   },
   {
     "url": "https://electrogrup.applytojob.com/apply/jobs/details/VU1Kxl4KWU",
@@ -80,14 +62,14 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-14T13:11:31Z",
+    "date": "2026-11-15T13:39:50Z",
     "status": "scraped",
     "tags": [
-      "inginerie civila",
-      "tehnologia si organizarea santierelor"
+      "organizarea santierelor",
+      "management constructii"
     ],
-    "matchPercentage": 85,
-    "reason": "Inginer constructii civile cu verificare de planuri, urmarirea executiei si documentatie tehnica de santier."
+    "matchPercentage": 78,
+    "reason": "Job de inginer constructii civile cu activitati directe de urmarire a executiei, calitatii si documentatiei tehnice pe santier."
   },
   {
     "url": "https://electrogrup.applytojob.com/apply/jobs/details/TrwICcbMIz",
@@ -98,68 +80,14 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-14T13:11:31Z",
+    "date": "2026-11-15T13:39:50Z",
     "status": "scraped",
     "tags": [
-      "inginerie civila",
-      "tehnologia si organizarea santierelor"
+      "organizarea santierelor",
+      "management constructii"
     ],
-    "matchPercentage": 85,
-    "reason": "Inginer constructii civile cu verificare de planuri, urmarirea executiei si documentatie tehnica de santier."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3447074",
-    "title": "TOPOGRAF",
-    "company": "VERTATEL INTERNATIONAL S.R.L.",
-    "location": [
-      "MAGURELE",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-15T09:24:25Z",
-    "status": "scraped",
-    "tags": [
-      "topografie",
-      "masuratori teren"
-    ],
-    "matchPercentage": 85,
-    "reason": "Post entry-level de topografie cu măsurători de teren, direct relevant pentru competențele topografice."
-  },
-  {
-    "url": "https://www.jobrapid.ro/locuri-de-munca/topograf-in-magurele-1732982.html",
-    "title": "Topograf",
-    "company": "VERTATEL INTERNATIONAL S.R.L.",
-    "location": [
-      "Măgurele",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-13T12:42:20Z",
-    "status": "scraped",
-    "tags": [
-      "topografie",
-      "masuratori teren"
-    ],
-    "matchPercentage": 85,
-    "reason": "Post entry-level de topografie cu măsurători de teren, direct relevant pentru competențele topografice."
-  },
-  {
-    "url": "https://www.randstad.ro/locuri-de-munca/inginer-proiectare-instalatii-sanitare-si-stingere-incendii_bucuresti_5476/",
-    "title": "inginer proiectare instalații sanitare și stingere incendii",
-    "company": "RANDSTAD ROMANIA SRL",
-    "location": [
-      "București",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-14T15:04:39.499Z",
-    "status": "scraped",
-    "tags": [
-      "alimentare cu apa",
-      "securitate la incendiu"
-    ],
-    "matchPercentage": 82,
-    "reason": "Proiectare instalatii sanitare si stingere incendii, direct relevanta pentru alimentare cu apa, canalizari si securitate la incendiu."
+    "matchPercentage": 78,
+    "reason": "Job de inginer constructii civile cu activitati directe de urmarire a executiei, calitatii si documentatiei tehnice pe santier."
   },
   {
     "url": "https://www.ejobs.ro/user/locuri-de-munca/inginer-proiectant-retele-electrice-apa-canal-hidrotehnice/99252684",
@@ -176,8 +104,26 @@
       "retele apa-canal",
       "hidrotehnica"
     ],
-    "matchPercentage": 72,
-    "reason": "Proiectare rețele apă-canal și lucrări hidrotehnice se potrivește direct, dar cere minim 3 ani experiență, la limita nivelului acceptat."
+    "matchPercentage": 78,
+    "reason": "Proiectare retele apa-canal si lucrari hidrotehnice direct relevante, dar necesita minim 3 ani experienta, la limita nivelului acceptat."
+  },
+  {
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/XJ0EvHFRCT",
+    "title": "Coordonator Constructii Civile",
+    "company": "ELECTROGRUP SA",
+    "location": [
+      "Constanta",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-15T13:39:50Z",
+    "status": "scraped",
+    "tags": [
+      "organizarea santierelor",
+      "management constructii"
+    ],
+    "matchPercentage": 70,
+    "reason": "Coordonarea lucrărilor civile pe șantier folosește organizarea șantierelor și managementul construcțiilor, la un nivel de mijloc."
   },
   {
     "url": "https://electrogrup.applytojob.com/apply/jobs/details/4Hx8ssFldb",
@@ -188,14 +134,14 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-14T13:11:31Z",
+    "date": "2026-11-15T13:39:50Z",
     "status": "scraped",
     "tags": [
       "materiale constructii",
-      "tehnologia santierelor"
+      "organizarea santierelor"
     ],
-    "matchPercentage": 70,
-    "reason": "Inginer calitate civile foloseste cunostinte de materiale, tehnologie si documentatie tehnica de constructii."
+    "matchPercentage": 68,
+    "reason": "Controlul calității lucrărilor civile implică verificări tehnice, materiale și execuție, domeniu apropiat de inginerie civilă."
   },
   {
     "url": "https://electrogrup.applytojob.com/apply/jobs/details/eUrJcp8V7k",
@@ -206,14 +152,14 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-14T13:11:31Z",
+    "date": "2026-11-15T13:39:50Z",
     "status": "scraped",
     "tags": [
       "materiale constructii",
-      "tehnologia santierelor"
+      "organizarea santierelor"
     ],
-    "matchPercentage": 70,
-    "reason": "Inginer calitate civile foloseste cunostinte de materiale, tehnologie si documentatie tehnica de constructii."
+    "matchPercentage": 68,
+    "reason": "Controlul calității lucrărilor civile implică verificări tehnice, materiale și execuție, domeniu apropiat de inginerie civilă."
   },
   {
     "url": "https://electrogrup.applytojob.com/apply/jobs/details/i85JQZTNPQ",
@@ -224,31 +170,85 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-14T13:11:31Z",
+    "date": "2026-11-15T13:39:50Z",
+    "status": "scraped",
+    "tags": [
+      "management constructii",
+      "devize"
+    ],
+    "matchPercentage": 68,
+    "reason": "Rol de control de proiect in constructii civile care foloseste devizele, situatiile de lucrari si managementul de proiect."
+  },
+  {
+    "url": "https://www.randstad.ro/locuri-de-munca/inginer-proiectare-instalatii-sanitare-si-stingere-incendii_bucuresti_5476/",
+    "title": "inginer proiectare instalații sanitare și stingere incendii",
+    "company": "RANDSTAD ROMANIA SRL",
+    "location": [
+      "București",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-15T13:24:59.878Z",
+    "status": "scraped",
+    "tags": [
+      "canalizari",
+      "securitate incendiu"
+    ],
+    "matchPercentage": 67,
+    "reason": "Proiectare instalatii sanitare si de stingere incendii, partial relevanta pentru apa-canal si securitatea la incendiu."
+  },
+  {
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/K2pZrtCse1",
+    "title": "Inginer Cantitati",
+    "company": "ELECTROGRUP SA",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-15T13:39:50Z",
     "status": "scraped",
     "tags": [
       "devize",
       "management constructii"
     ],
     "matchPercentage": 65,
-    "reason": "Verifică situații de lucrări, devize și bugete pentru proiecte civile, folosind managementul construcțiilor."
+    "reason": "Inginerul de cantități folosește devize și managementul construcțiilor pentru infrastructură, potrivire parțială."
   },
   {
-    "url": "https://www.jobs-continentalhotels.ro/ro/job-details/130-tehnician-inginer_instalatii_sanitare_si_hvac",
-    "title": "Tehnician/Inginer Instalatii Sanitare si HVAC",
-    "company": "CONTINENTAL HOTELS SA",
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3447074",
+    "title": "TOPOGRAF",
+    "company": "VERTATEL INTERNATIONAL S.R.L.",
     "location": [
-      "București",
+      "MAGURELE",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-14T15:07:05.204Z",
+    "date": "2026-11-15T09:24:25Z",
     "status": "scraped",
     "tags": [
-      "instalatii sanitare",
-      "apa si canalizare"
+      "topografie",
+      "masuratori teren"
     ],
     "matchPercentage": 63,
-    "reason": "Supervizarea instalatiilor sanitare foloseste partial competentele de apa-canal, dar include mult HVAC si coordonare."
+    "reason": "Post de topograf fara experienta, care foloseste direct competentele de topografie si masuratori de teren."
+  },
+  {
+    "url": "https://www.jobrapid.ro/locuri-de-munca/topograf-in-magurele-1732982.html",
+    "title": "Topograf",
+    "company": "VERTATEL INTERNATIONAL S.R.L.",
+    "location": [
+      "Măgurele",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-13T12:42:20Z",
+    "status": "scraped",
+    "tags": [
+      "topografie",
+      "masuratori teren"
+    ],
+    "matchPercentage": 63,
+    "reason": "Post de topograf fara experienta, care foloseste direct competentele de topografie si masuratori de teren."
   }
 ]

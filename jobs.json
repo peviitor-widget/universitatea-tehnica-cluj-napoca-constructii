@@ -8,83 +8,14 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T15:42:02Z",
+    "date": "2026-11-18T15:22:31Z",
     "status": "scraped",
     "tags": [
       "hidrotehnica",
       "baraje"
     ],
-    "matchPercentage": 92,
-    "reason": "Poziția de inginer construcții hidrotehnice cu zero experiență corespunde exact specializării în hidrotehnică și baraje."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3417530",
-    "title": "INGINER TOPOGRAF",
-    "company": "APAVIL SA",
-    "location": [
-      "RAMNICU VALCEA",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-16T13:05:46Z",
-    "status": "verified",
-    "tags": [
-      "topografie",
-      "cadastru"
-    ],
-    "matchPercentage": 92,
-    "reason": "Inginer topograf la o companie de apă, cu mai puțin de 3 ani experiență, domeniu și nivel potrivite."
-  },
-  {
-    "url": "https://multijobs.ro/job/inginer-proiectant-structuri-beton-armat/1592",
-    "title": "Inginer Proiectant Structuri Beton Armat",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T15:07:56Z",
-    "status": "tested",
-    "tags": [
-      "structuri beton",
-      "calcul rezistență"
-    ],
-    "matchPercentage": 92,
-    "reason": "Proiectant structuri din beton armat, competență directă de proiectare și calcul de rezistență."
-  },
-  {
-    "url": "https://multijobs.ro/job/inginer-proiectant-de-structuri-geotehnician-constructii/1606",
-    "title": "Inginer Proiectant de Structuri/Geotehnician - Construcții",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T12:03:59Z",
-    "status": "tested",
-    "tags": [
-      "structuri de beton",
-      "geotehnica"
-    ],
-    "matchPercentage": 92,
-    "reason": "Inginer proiectant de structuri și geotehnician, cu atribuții directe de proiectare structurală și geotehnică."
-  },
-  {
-    "url": "https://electrogrup.applytojob.com/apply/jobs/details/7LMwg2NYRW",
-    "title": "Inginer Proiectare Constructii",
-    "company": "ELECTROGRUP SA",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T15:41:11Z",
-    "status": "scraped",
-    "tags": [],
-    "matchPercentage": 90,
-    "reason": "Proiectarea fundațiilor și structurilor din beton armat, calcul și dimensionare elemente structurale conform Eurocode, nivel adecvat."
+    "matchPercentage": 95,
+    "reason": "Poziție entry-level perfect aliniată la hidrotehnică, proiectarea barajelor și regularizarea râurilor."
   },
   {
     "url": "https://jobs.arcadis.com/careers/job/563671532887266",
@@ -98,65 +29,47 @@
     "date": "2026-11-17T12:02:59Z",
     "status": "tested",
     "tags": [
-      "CAD 2D/3D",
-      "canalizari"
+      "CAD",
+      "retele apa"
     ],
-    "matchPercentage": 90,
-    "reason": "Designer Civil 3D pentru proiecte de apă și amenajări urbane, cere diplomă de inginer civil și implică proiectare 2D/3D, secțiuni și măsurători."
+    "matchPercentage": 92,
+    "reason": "Designer Civil 3D pentru proiecte de apă, cu secțiuni transversale și longitudinale și analiză cantitativă, folosind CAD și dimensionarea rețelelor de apă."
   },
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3323098",
-    "title": "TOPOGRAF",
-    "company": "ADVANCE DESIGN BUILDING COMPANY SRL",
-    "location": [
-      "MUNICIPIUL SLATINA",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-16T13:11:14Z",
-    "status": "tested",
-    "tags": [
-      "topografie",
-      "măsurători"
-    ],
-    "matchPercentage": 90,
-    "reason": "Post de topograf cu studii superioare și zero ani experiență, ideal pentru un absolvent."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3417843",
-    "title": "INGINER TOPOGRAF",
-    "company": "GLOBALMAP S.R.L.",
-    "location": [
-      "SUCEAVA",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-16T13:05:46Z",
-    "status": "verified",
-    "tags": [
-      "topografie",
-      "cadastru"
-    ],
-    "matchPercentage": 90,
-    "reason": "Inginer topograf cu studii superioare și fără experiență, potrivire directă cu competențele de topografie."
-  },
-  {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/273681/ABC-Human-Capital/Inginer-proiectant---structuri-de-rezistenta",
-    "title": "Inginer proiectant - structuri de rezistenta",
-    "company": "ABC HUMAN CAPITAL SRL",
+    "url": "https://multijobs.ro/job/inginer-proiectant-de-structuri-geotehnician-constructii/1606",
+    "title": "Inginer Proiectant de Structuri/Geotehnician - Construcții",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
     "location": [
       "Bucuresti",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T10:04:39Z",
+    "date": "2026-11-17T12:03:59Z",
     "status": "tested",
     "tags": [
-      "structuri de rezistenta",
-      "calcul structural"
+      "proiectare structuri",
+      "geotehnică"
+    ],
+    "matchPercentage": 92,
+    "reason": "Inginer proiectant de structuri și geotehnician: proiectarea structurilor, a fundațiilor și studiile geotehnice, nivel inginer fără cerințe senior."
+  },
+  {
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/7LMwg2NYRW",
+    "title": "Inginer Proiectare Constructii",
+    "company": "ELECTROGRUP SA",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-18T15:20:20Z",
+    "status": "scraped",
+    "tags": [
+      "fundatii",
+      "beton armat"
     ],
     "matchPercentage": 90,
-    "reason": "Inginer proiectant pentru structuri de rezistență, potrivit pentru absolvent cu competențe de calcul structural."
+    "reason": "Proiectarea fundațiilor și structurilor din beton armat, cu calcul și dimensionare de elemente structurale, corespunde direct competențelor de proiectare și dimensionare."
   },
   {
     "url": "https://electrogrup.applytojob.com/apply/jobs/details/UGD5eq04pv",
@@ -167,170 +80,14 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T15:41:11Z",
+    "date": "2026-11-18T15:20:20Z",
     "status": "scraped",
     "tags": [
       "fundatii",
       "beton armat"
     ],
-    "matchPercentage": 88,
-    "reason": "Proiectare de fundații și structuri din beton armat, cu calcul de rezistență și documentații tehnice, la nivel de inginer fără cerințe senior."
-  },
-  {
-    "url": "https://www.teamland.ro/apply.php?id=937",
-    "title": "Inginer topograf",
-    "company": "TEAMLAND SRL",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T09:56:23Z",
-    "status": "tested",
-    "tags": [
-      "topografie",
-      "cadastru"
-    ],
-    "matchPercentage": 88,
-    "reason": "Inginer topograf cere specializare în cadastru/geodezie/topografie și echipamente GPS, fără experiență îndelungată."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3447047",
-    "title": "INGINER CONSTRUCTII CIVILE, INDUSTRIALE SI AGRICOLE",
-    "company": "VERTATEL INTERNATIONAL S.R.L.",
-    "location": [
-      "MAGURELE",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T15:42:02Z",
-    "status": "scraped",
-    "tags": [
-      "structuri beton",
-      "calcul rezistenta"
-    ],
-    "matchPercentage": 85,
-    "reason": "Postul de inginer construcții civile la zero experiență folosește direct proiectarea structurilor și calculul de rezistență."
-  },
-  {
-    "url": "https://multijobs.ro/job/topograf/57",
-    "title": "Topograf",
-    "company": "ANKI TEKNOLOGY S.R.L.",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T10:51:46Z",
-    "status": "tested",
-    "tags": [
-      "topografie",
-      "măsurători"
-    ],
-    "matchPercentage": 85,
-    "reason": "Poziție de topograf, domeniu direct relevant și fără cerințe de nivel senior."
-  },
-  {
-    "url": "https://multijobs.ro/job/topograf/6725",
-    "title": "Topograf",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
-    "location": [
-      "Constanta",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T09:36:29Z",
-    "status": "tested",
-    "tags": [
-      "topografie",
-      "măsurători"
-    ],
-    "matchPercentage": 85,
-    "reason": "Poziție de topograf cu competență directă din planul de învățământ și fără cerințe de senior."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3417850",
-    "title": "CONSILIER CADASTRU",
-    "company": "GLOBALMAP S.R.L.",
-    "location": [
-      "SUCEAVA",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-16T13:05:46Z",
-    "status": "verified",
-    "tags": [
-      "Cadastru",
-      "Topografie"
-    ],
-    "matchPercentage": 85,
-    "reason": "Poziție entry-level de consilier cadastru, potrivită direct competențelor de cadastru și amenajarea teritoriului."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3417848",
-    "title": "TEHNICIAN CADASTRU",
-    "company": "GLOBALMAP S.R.L.",
-    "location": [
-      "SUCEAVA",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-16T13:05:46Z",
-    "status": "verified",
-    "tags": [
-      "Topografie",
-      "Cadastru"
-    ],
-    "matchPercentage": 83,
-    "reason": "Post entry-level de tehnician cadastru, relevant pentru competențele de topografie și cadastru."
-  },
-  {
-    "url": "https://electrogrup.applytojob.com/apply/jobs/details/VU1Kxl4KWU",
-    "title": "Inginer Constructii Civile",
-    "company": "ELECTROGRUP SA",
-    "location": [
-      "Piatra-Neamt",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T15:41:11Z",
-    "status": "scraped",
-    "tags": [],
-    "matchPercentage": 82,
-    "reason": "Inginer construcții civile cu verificarea planurilor de execuție, supravegherea șantierului și documentație tehnică, la nivel junior/mid potrivit."
-  },
-  {
-    "url": "https://electrogrup.applytojob.com/apply/jobs/details/TrwICcbMIz",
-    "title": "Inginer Constructii Civile",
-    "company": "ELECTROGRUP SA",
-    "location": [
-      "Constanta",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T15:41:11Z",
-    "status": "scraped",
-    "tags": [],
-    "matchPercentage": 82,
-    "reason": "Inginer construcții civile cu verificarea planurilor de execuție, supravegherea șantierului și documentație tehnică, la nivel junior/mid potrivit."
-  },
-  {
-    "url": "https://oferimdemunca.ro/job/ingineri-structuristi-beton-metal-infrastructura-rutiera-imbunatatire-funciara-specialisti-ssm-psi-siguranta-si-exploatare-impotriva-zgomotului/",
-    "title": "Ingineri structuristi beton, metal, infrastructura rutieră, îmbunătățire funciară, specialisti SSM, PSI, siguranță și exploatare , împotriva zgomotului",
-    "company": "MSL INDUSTRIES S.R.L.",
-    "location": [
-      "București",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T11:16:04Z",
-    "status": "tested",
-    "tags": [
-      "structuri beton",
-      "căi comunicații"
-    ],
-    "matchPercentage": 82,
-    "reason": "Ingineri structuriști pentru beton, infrastructură rutieră și SSM/PSI, domeniu direct relevant fără cerință senior."
+    "matchPercentage": 90,
+    "reason": "Aceeași poziție de proiectare structuri și fundații, la Cluj-Napoca, potrivită pentru un inginer junior/mid."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3417818",
@@ -347,44 +104,277 @@
       "cadastru",
       "topografie"
     ],
-    "matchPercentage": 82,
-    "reason": "Postul de subinginer cadastru este entry-level și vizează direct competențe de cadastru, topografie și GIS."
+    "matchPercentage": 90,
+    "reason": "Poziție de subinginer cadastru fără experiență, foarte potrivită pentru un absolvent din domeniul construcțiilor."
   },
   {
-    "url": "https://electrogrup.applytojob.com/apply/jobs/details/4Hx8ssFldb",
-    "title": "Inginer Calitate Civile",
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/VU1Kxl4KWU",
+    "title": "Inginer Constructii Civile",
     "company": "ELECTROGRUP SA",
+    "location": [
+      "Piatra-Neamt",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-18T15:20:20Z",
+    "status": "scraped",
+    "tags": [
+      "santier",
+      "devize"
+    ],
+    "matchPercentage": 88,
+    "reason": "Postul de inginer constructii civile implica verificarea planurilor de executie, urmarirea lucrarilor pe santier si intocmirea situatiilor de lucrari, folosind direct competente de proiectare, organizare de santier si devize la nivel entry-level."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3173367",
+    "title": "INGINER TOPOGRAF",
+    "company": "CONSTRUCŢII HIDROTEHNICE SA",
+    "location": [
+      "IASI",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-16T13:11:14Z",
+    "status": "tested",
+    "tags": [
+      "topografie",
+      "hidrotehnică"
+    ],
+    "matchPercentage": 88,
+    "reason": "Inginer topograf la o firmă de construcții hidrotehnice, cu sub 3 ani experiență, potrivire directă."
+  },
+  {
+    "url": "https://multijobs.ro/job/inginer-proiectant-structuri-beton-armat/1592",
+    "title": "Inginer Proiectant Structuri Beton Armat",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T15:07:56Z",
+    "status": "tested",
+    "tags": [
+      "beton armat",
+      "proiectare structuri"
+    ],
+    "matchPercentage": 88,
+    "reason": "Proiectant structuri beton armat, domeniu direct din competențe, fără indicatori de nivel senior."
+  },
+  {
+    "url": "https://dreamjobs.ro/ro/job/dma-topografie/asistent-tehnic-in-topografie",
+    "title": "Asistent Tehnic în Topografie",
+    "company": "DMA TOPOGRAFIE S.R.L.",
     "location": [
       "Cluj-Napoca",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T15:41:11Z",
-    "status": "scraped",
+    "date": "2026-11-17T15:36:24Z",
+    "status": "tested",
     "tags": [
-      "materiale constructii",
-      "testare constructii"
+      "topografie",
+      "CAD"
     ],
-    "matchPercentage": 80,
-    "reason": "Inginerul de calitate civile analizează documentația, verifică materialele și face inspecții în șantier, competențe directe ale absolventului."
+    "matchPercentage": 88,
+    "reason": "Rol de asistent tehnic în topografie cu prelucrare CAD și documentații cadastrale, potrivit pentru nivel entry-level."
   },
   {
-    "url": "https://electrogrup.applytojob.com/apply/jobs/details/eUrJcp8V7k",
-    "title": "Inginer Calitate Civile",
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3447047",
+    "title": "INGINER CONSTRUCTII CIVILE, INDUSTRIALE SI AGRICOLE",
+    "company": "VERTATEL INTERNATIONAL S.R.L.",
+    "location": [
+      "MAGURELE",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-18T15:22:31Z",
+    "status": "scraped",
+    "tags": [
+      "beton armat",
+      "fundatii"
+    ],
+    "matchPercentage": 85,
+    "reason": "Poziție entry-level cu 0 ani experiență în construcții civile, care folosește direct proiectarea structurilor și a fundațiilor."
+  },
+  {
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/TrwICcbMIz",
+    "title": "Inginer Constructii Civile",
     "company": "ELECTROGRUP SA",
     "location": [
       "Constanta",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T15:41:11Z",
+    "date": "2026-11-18T15:20:20Z",
     "status": "scraped",
     "tags": [
-      "materiale constructii",
-      "testare constructii"
+      "organizare santier",
+      "desen tehnic"
+    ],
+    "matchPercentage": 85,
+    "reason": "Inginer construcții civile pe șantier, verifică planuri de execuție, detalii de proiectare și urmărește execuția lucrărilor, folosind direct competențele de structuri și organizare de șantier."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3417530",
+    "title": "INGINER TOPOGRAF",
+    "company": "APAVIL SA",
+    "location": [
+      "RAMNICU VALCEA",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-16T13:05:46Z",
+    "status": "verified",
+    "tags": [
+      "topografie",
+      "cadastru"
+    ],
+    "matchPercentage": 85,
+    "reason": "Inginer topograf la o companie de apă, cu sub 3 ani experiență, competențe direct aplicabile."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/273681/ABC-Human-Capital/Inginer-proiectant---structuri-de-rezistenta",
+    "title": "Inginer proiectant - structuri de rezistenta",
+    "company": "ABC HUMAN CAPITAL SRL",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T10:04:39Z",
+    "status": "tested",
+    "tags": [
+      "proiectare structuri",
+      "calcul rezistență"
+    ],
+    "matchPercentage": 85,
+    "reason": "Inginer proiectant structuri de rezistență: calcul de rezistență și proiectare structurală, fără cerință de experiență îndelungată."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3417850",
+    "title": "CONSILIER CADASTRU",
+    "company": "GLOBALMAP S.R.L.",
+    "location": [
+      "SUCEAVA",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-16T13:05:46Z",
+    "status": "verified",
+    "tags": [
+      "cadastru"
+    ],
+    "matchPercentage": 85,
+    "reason": "Poziție de consilier cadastru fără experiență cerută, potrivită pentru absolvent sau student în domeniu."
+  },
+  {
+    "url": "https://jobzz.ro/angajare-personal-cadastru-topografie-geodezie-pentru-birou-anunt_889476.html",
+    "title": "Angajare personal cadastru-topografie-geodezie pentru birou Pitesti",
+    "company": "JOBZZLE CONNECT S.R.L.",
+    "location": [
+      "Pitești",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T10:53:24Z",
+    "status": "tested",
+    "tags": [
+      "cadastru",
+      "topografie"
+    ],
+    "matchPercentage": 84,
+    "reason": "Activitate de birou pentru cadastru și elaborare documentații cadastrale, relevantă pentru profilul tehnic căutat."
+  },
+  {
+    "url": "https://www.teamland.ro/apply.php?id=937",
+    "title": "Inginer topograf",
+    "company": "TEAMLAND SRL",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T09:56:23Z",
+    "status": "tested",
+    "tags": [
+      "topografie",
+      "cadastru"
+    ],
+    "matchPercentage": 82,
+    "reason": "Sarcinile de verificare planuri, materializare în teren și GPS corespund direct competențelor de topografie și cadastru."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3417843",
+    "title": "INGINER TOPOGRAF",
+    "company": "GLOBALMAP S.R.L.",
+    "location": [
+      "SUCEAVA",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-16T13:05:46Z",
+    "status": "verified",
+    "tags": [
+      "topografie",
+      "măsurători"
+    ],
+    "matchPercentage": 82,
+    "reason": "Inginer topograf absolvent, zero ani experiență, domeniu direct relevant."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3417848",
+    "title": "TEHNICIAN CADASTRU",
+    "company": "GLOBALMAP S.R.L.",
+    "location": [
+      "SUCEAVA",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-16T13:05:46Z",
+    "status": "verified",
+    "tags": [
+      "cadastru",
+      "topografie"
+    ],
+    "matchPercentage": 82,
+    "reason": "Poziție de tehnician cadastru entry-level, relevantă pentru competențele de cadastru și măsurători."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3323098",
+    "title": "TOPOGRAF",
+    "company": "ADVANCE DESIGN BUILDING COMPANY SRL",
+    "location": [
+      "MUNICIPIUL SLATINA",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-16T13:11:14Z",
+    "status": "tested",
+    "tags": [
+      "topografie",
+      "măsurători"
     ],
     "matchPercentage": 80,
-    "reason": "Inginerul de calitate civile analizează documentația, verifică materialele și face inspecții în șantier, competențe directe ale absolventului."
+    "reason": "Post de topograf absolvent, fără experiență, în domeniul direct al măsurătorilor terestre."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3430514",
+    "title": "DESENATOR TEHNIC",
+    "company": "ARHICON-BUILDING SRL",
+    "location": [
+      "FOCSANI",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-16T12:59:33Z",
+    "status": "verified",
+    "tags": [
+      "desen tehnic",
+      "CAD"
+    ],
+    "matchPercentage": 78,
+    "reason": "Desenator tehnic într-o firmă de arhitectură și construcții, cu sub 3 ani experiență, utilizează CAD și desen tehnic."
   },
   {
     "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272955/E-INFRA/Inginer-Proiectare-Constructii",
@@ -398,47 +388,83 @@
     "date": "2026-11-17T14:46:57Z",
     "status": "tested",
     "tags": [
-      "proiectare structuri",
-      "beton armat"
-    ],
-    "matchPercentage": 80,
-    "reason": "Rol de inginer proiectare construcții, relevant direct pentru competențele de proiectare structurală și civilă."
-  },
-  {
-    "url": "https://www.undelucram.ro/ro/locuri-de-munca/gis-developer/100050",
-    "title": "GIS Developer",
-    "company": "CAPGEMINI SERVICES ROMANIA SRL",
-    "location": [
-      "Iași",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T11:43:19Z",
-    "status": "tested",
-    "tags": [
-      "GIS",
-      "programare"
+      "proiectare construcții",
+      "CAD"
     ],
     "matchPercentage": 78,
-    "reason": "Dezvoltare GIS la nivel junior/mid folosește direct competențele de sisteme geografice și programare aplicată."
+    "reason": "Rol de inginer proiectare construcții relevant pentru competențele de proiectare și CAD, iar nivelul nu este indicat ca senior."
   },
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3417847",
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3447074",
     "title": "TOPOGRAF",
-    "company": "GLOBALMAP S.R.L.",
+    "company": "VERTATEL INTERNATIONAL S.R.L.",
     "location": [
-      "SUCEAVA",
+      "MAGURELE",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-16T13:05:46Z",
-    "status": "verified",
+    "date": "2026-11-18T15:22:31Z",
+    "status": "scraped",
     "tags": [
       "topografie",
       "măsurători"
     ],
     "matchPercentage": 78,
-    "reason": "Post de topograf la nivel de început, cu liceu de specialitate, domeniu direct relevant."
+    "reason": "Post de topograf cu zero experiență, cu sarcini de măsurători în teren, deși nivelul de studii cerut e inferior."
+  },
+  {
+    "url": "https://www.jobrapid.ro/locuri-de-munca/topograf-in-magurele-1732982.html",
+    "title": "Topograf",
+    "company": "VERTATEL INTERNATIONAL S.R.L.",
+    "location": [
+      "Măgurele",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-13T12:42:20Z",
+    "status": "scraped",
+    "tags": [
+      "topografie",
+      "măsurători"
+    ],
+    "matchPercentage": 78,
+    "reason": "Post de topograf fără experiență, cu sarcini de măsurători, deși studiile cerute sunt de școală profesională."
+  },
+  {
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/NY1Dog08wH",
+    "title": "Inginer Calitate Constructii",
+    "company": "ELECTROGRUP SA",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-18T15:20:20Z",
+    "status": "scraped",
+    "tags": [
+      "fundatii",
+      "materiale constructii"
+    ],
+    "matchPercentage": 75,
+    "reason": "Verificarea de la fundație la recepție folosește direct competențe de fundații și materiale, fără experiență îndelungată cerută."
+  },
+  {
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/TCgDBFKiug",
+    "title": "Inginer Calitate Constructii",
+    "company": "ELECTROGRUP SA",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-18T15:20:20Z",
+    "status": "scraped",
+    "tags": [
+      "fundatii",
+      "materiale constructii"
+    ],
+    "matchPercentage": 75,
+    "reason": "Verificarea de la fundație la recepție folosește direct competențe de fundații și materiale, fără experiență îndelungată cerută."
   },
   {
     "url": "https://multijobs.ro/job/desenator-tehnic/3183",
@@ -456,78 +482,60 @@
       "CAD"
     ],
     "matchPercentage": 75,
-    "reason": "Desenator tehnic într-o firmă de construcții, folosește desenul tehnic și CAD, fără cerință de experiență."
+    "reason": "Desenator tehnic la o firmă de construcții, folosește desenul tehnic și CAD 2D/3D, fără cerințe de senioritate."
   },
   {
-    "url": "https://electrogrup.applytojob.com/apply/jobs/details/i85JQZTNPQ",
-    "title": "Project Controller Constructii Civile",
-    "company": "ELECTROGRUP SA",
+    "url": "https://www.cabuzau.ro/despre-noi/cariere/responsabil-gis-departamentul-tehnic/",
+    "title": "Responsabil GIS – Departament Tehnic",
+    "company": "COMPANIA DE APĂ BACĂU SA",
     "location": [
-      "Cluj-Napoca",
+      "Buzau",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T15:41:11Z",
-    "status": "scraped",
-    "tags": [
-      "devize",
-      "management"
-    ],
-    "matchPercentage": 72,
-    "reason": "Control de proiect în construcții civile cu verificare de devize, situații de lucrări și rapoarte tehnice, nivel mediu."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3430514",
-    "title": "DESENATOR TEHNIC",
-    "company": "ARHICON-BUILDING SRL",
-    "location": [
-      "FOCSANI",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-16T12:59:33Z",
-    "status": "verified",
-    "tags": [
-      "desen tehnic",
-      "CAD"
-    ],
-    "matchPercentage": 72,
-    "reason": "Desenator tehnic într-o firmă de construcții și arhitectură, cu experiență sub 3 ani, competențe de desen tehnic și CAD."
-  },
-  {
-    "url": "https://jobzz.ro/angajare-personal-cadastru-topografie-geodezie-pentru-birou-anunt_889476.html",
-    "title": "Angajare personal cadastru-topografie-geodezie pentru birou Pitesti",
-    "company": "JOBZZLE CONNECT S.R.L.",
-    "location": [
-      "Pitești",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T10:53:24Z",
+    "date": "2026-11-17T12:27:04Z",
     "status": "tested",
     "tags": [
-      "Cadastru",
-      "Topografie"
+      "GIS",
+      "canalizări"
     ],
     "matchPercentage": 72,
-    "reason": "Activitate de cadastru și topografie pentru birou, relevantă pentru competențele tehnice, deși se preferă experiență."
+    "reason": "Rol GIS într-un departament tehnic al unei companii de apă, relevant pentru rețele de apă/canalizare și gestiunea apelor."
   },
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3417908",
-    "title": "DESENATOR TEHNIC",
-    "company": "GLOBALMAP S.R.L.",
+    "url": "https://www.undelucram.ro/ro/locuri-de-munca/gis-developer/100050",
+    "title": "GIS Developer",
+    "company": "CAPGEMINI SERVICES ROMANIA SRL",
     "location": [
-      "SUCEAVA",
+      "Iași",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-16T13:05:46Z",
-    "status": "verified",
+    "date": "2026-11-17T11:43:19Z",
+    "status": "tested",
     "tags": [
-      "desen tehnic",
-      "GIS"
+      "GIS",
+      "programare"
     ],
-    "matchPercentage": 70,
-    "reason": "Desenator tehnic la o firmă de cartografie și GIS, fără experiență, folosește desenul tehnic și informațiile geografice."
+    "matchPercentage": 72,
+    "reason": "Dezvoltator GIS folosește direct competențele GIS și programare, fără cerințe de senior."
+  },
+  {
+    "url": "https://multijobs.ro/job/topograf/6725",
+    "title": "Topograf",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Constanta",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T09:36:29Z",
+    "status": "tested",
+    "tags": [
+      "topografie",
+      "măsurători"
+    ],
+    "matchPercentage": 72,
+    "reason": "Titlul de topograf corespunde competenței de topografie, însă anunțul nu detaliază sarcinile sau nivelul."
   }
 ]
